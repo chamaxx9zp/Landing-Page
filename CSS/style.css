@@ -1,3 +1,5 @@
+/* color, font and variables setup */
+
 :root {
   --font-base: "poppins", sans-serif;
 }
@@ -5,3 +7,18 @@
 body {
   font-family: var(--font-base);
 }
+
+
+/* Button css setup */
+
+
+/* Navbar css setup */
+
+
+/* Hero css setup */
+
+
+/* About Us setup */
+
+
+/* iconbox setup */
