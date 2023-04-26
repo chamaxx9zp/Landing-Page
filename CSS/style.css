@@ -57,7 +57,9 @@ img {
 }
 
 /* Hero css setup */
-
+#Hero{
+  background: url(/img/home/Hero-img.jpg);
+}
 
 /* About Us setup */
 
