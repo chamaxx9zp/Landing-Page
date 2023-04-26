@@ -84,5 +84,17 @@ img {
 
 /* About Us setup */
 
+.brand-title {
+  font-size: 65px;
+  font-weight: 750;
+  font-family: var(--font-base);
+}
+
+.brand-p {
+  font-size: 25px;
+  font-weight: 400;
+  font-family: var(--font-base);
+}
+
 
 /* iconbox setup */
