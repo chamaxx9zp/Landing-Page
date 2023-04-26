@@ -43,7 +43,20 @@ img {
 }
 /* Button css setup */
 
+.btn {
+  font-weight: 600 !important;
+}
+.btn-primary {
+  background-color: var(--c-primary) !important;
+}
 
+.btn-primary:hover {
+  background-color: var(--c-secondry) !important;
+}
+
+.btn-light {
+  background-color: var(--c-background) !important;
+}
 /* Navbar css setup */
 
 .navbar {
@@ -59,6 +72,14 @@ img {
 /* Hero css setup */
 #Hero{
   background: url(/img/home/Hero-img.jpg);
+  image-resolution:100%;
+  background-position: top;
+  margin-top: -55px;
+}
+
+.herotext {
+  font-size: 100px;
+  font-weight: 700;
 }
 
 /* About Us setup */
